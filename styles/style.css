@@ -84,6 +84,7 @@
 .header__address {
   justify-self: end;
   max-width: 240px;
+  padding: 0 10px 0 0;
 }
 
 /*адрес в подвале*/
